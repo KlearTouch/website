@@ -22,7 +22,7 @@ og_image: "/assets/images/logo.png"
 favicon32: "/assets/images/favicon-32x32.png"
 favicon128: "/assets/images/favicon-128x128.png"
 
-# twitter_username: username
+twitter_username: PierreHenriK
 github_username: "KlearTouch"
 minimal_mistakes_skin: "dark"
 search: true
@@ -35,7 +35,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-entries_layout: "grid"
+entries_layout: "kustom"
 
 include:
   - _pages
