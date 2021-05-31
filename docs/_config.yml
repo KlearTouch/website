@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 name: "KlearTouch"
 title: "KlearTouch"
-email: "kleartouch@kleartouch.com"
+subtitle: "App development"
 description: "Build powerful native apps"
+email: "KlearTouch@KlearTouch.com"
 og_image: "/assets/images/logo.png"
 favicon32: "/assets/images/favicon-32x32.png"
 favicon128: "/assets/images/favicon-128x128.png"
