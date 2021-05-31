@@ -9,7 +9,7 @@ Everything hosted on this website or on [ou](https://github.com/KlearTouch)[r](h
 
 Apps published by KlearTouch are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.
 
-Feel free to contact us via email: [kleartouch@kleartouch.com](mailto:kleartouch@kleartouch.com)
+Feel free to contact us via email: [KlearTouch@KlearTouch.com](mailto:KlearTouch@KlearTouch.com)
 
 ## MIT License
 

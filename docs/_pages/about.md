@@ -7,5 +7,5 @@ Build powerful native apps...
 
 Contact:
 
-- Email: [kleartouch@kleartouch.com](mailto:kleartouch@kleartouch.com)
+- Email: [KlearTouch@KlearTouch.com](mailto:KlearTouch@KlearTouch.com)
 - Twitter: [@PierreHenriK](https://twitter.com/PierreHenriK)
