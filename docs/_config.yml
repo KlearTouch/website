@@ -13,13 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: KlearTouch
-email: kleartouch@kleartouch.com
+name: "KlearTouch"
+title: "KlearTouch"
+email: "kleartouch@kleartouch.com"
 description: "Build powerful native apps"
+og_image: "/assets/images/logo.png"
+favicon32: "/assets/images/favicon-32x32.png"
+favicon128: "/assets/images/favicon-128x128.png"
 
 # twitter_username: username
-github_username: KlearTouch
-minimal_mistakes_skin: dark
+github_username: "KlearTouch"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -29,7 +33,7 @@ remote_theme: KlearTouch/theme
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -55,11 +59,20 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+social:
+  type   : "Organization"
+
 author:
   name   : "KlearTouch"
   avatar : "/assets/images/logo.png"
   bio    : "Build powerful native apps"
   links:
+    - label: "Terms of service"
+      icon: "fas fa-fw fa-file-contract"
+      url: "/terms/"
+    - label: "Privacy"
+      icon: "fas fa-fw fa-user-secret"
+      url: "/privacy/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
