@@ -2,8 +2,8 @@
 header:
   og_image: "/assets/images/under-construction.png"
   teaser: "/assets/images/under-construction.png"
-title: "Welcome!"
-date: 2021-05-31T14:00:00-00:00
+title: "Hello, World!"
+date: 2021-05-31T12:00:00-00:00
 excerpt: "Under construction!"
 categories:
   - pierrehenri
@@ -11,4 +11,6 @@ tags:
   - Meta
 ---
 
-Under construction! I wasn't expecting you here this early :)
+Welcome! I wasn't expecting you this early :)
+
+Come back in a bit...

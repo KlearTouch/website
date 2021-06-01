@@ -23,7 +23,7 @@ favicon32: "/assets/images/favicon-32x32.png"
 favicon128: "/assets/images/favicon-128x128.png"
 
 twitter_username: PierreHenriK
-github_username: "KlearTouch"
+github_username: "KPixel"
 minimal_mistakes_skin: "dark"
 search: true
 
@@ -32,8 +32,8 @@ markdown: kramdown
 remote_theme: KlearTouch/theme
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: 2 # amount of posts to show
+paginate_path: /:categories/page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 entries_layout: "kustom"
 
@@ -65,8 +65,8 @@ social:
   type   : "Organization"
 
 author:
-  name   : "KlearTouch"
-  avatar : "/assets/images/logo.png"
+  name   : "Pierre Henri"
+  avatar : "https://avatars.githubusercontent.com/u/26368333"
   bio    : "Build powerful native apps"
   links:
     - label: "@PierreHenriK"
@@ -74,7 +74,7 @@ author:
       url: "https://twitter.com/PierreHenriK"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/KlearTouch"
+      url: "https://github.com/KPixel"
 
 footer:
   links:
@@ -89,7 +89,7 @@ footer:
       url: "https://twitter.com/PierreHenriK"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/KlearTouch"
+      url: "https://github.com/KPixel"
 
 defaults:
   # _posts

@@ -1,8 +1,8 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Engine"
+    url: /engine/
+  - title: "Pierre Henri's Blog"
+    url: /pierrehenri/
   - title: "Tags"
     url: /tags/
   - title: "About"
