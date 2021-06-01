@@ -5,7 +5,7 @@ layout: splash
 ---
 
 <header>
-  <h1 id="page-title" class="page__title" itemprop="headline">About KlearTouch</h1>
+  <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
 </header>
 
 Build powerful native apps...
