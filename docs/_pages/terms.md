@@ -10,9 +10,12 @@ layout: splash
 
 Last Updated: 2021-05-31
 
-Everything hosted on this website or on [ou](https://github.com/KlearTouch)[r](https://github.com/KPixel) GitHub public repositories is [MIT licensed](#mit-license).
-
-Apps published by KlearTouch are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.
+- Everything hosted on this website or on [o](https://github.com/KlearTouch)[ur](https://github.com/KPixel) GitHub public repositories is [MIT licensed](#mit-license).
+- Apps published by KlearTouch are licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/), unless otherwise stated.
+- KlearTouch does not extend this license grant to sites/apps whose primary purpose is to generate advertising revenue.
+- KlearTouch reserves all rights associated with the names, logos, branding of our websites and apps.
+- User-posted material is only provided under a Creative Commons license if so indicated by the user.
+- Our apps may be integrated with third party services. In this case, additional terms from them may apply.
 
 Feel free to contact us via email: [KlearTouch@KlearTouch.com](mailto:KlearTouch@KlearTouch.com)
 
