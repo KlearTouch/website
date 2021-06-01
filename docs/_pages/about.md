@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: splash
 ---
 
 Build powerful native apps...

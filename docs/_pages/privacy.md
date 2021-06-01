@@ -1,6 +1,7 @@
 ---
 permalink: /privacy/
 title: "Privacy Statement"
+layout: splash
 ---
 
 Last Updated: 2021-05-31

@@ -1,6 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms of Service"
+layout: splash
 ---
 
 Last Updated: 2021-05-31
