@@ -4,6 +4,10 @@ title: "Terms of Service"
 layout: splash
 ---
 
+<header>
+  <h1 id="page-title" class="page__title" itemprop="headline">Terms of Service</h1>
+</header>
+
 Last Updated: 2021-05-31
 
 Everything hosted on this website or on [ou](https://github.com/KlearTouch)[r](https://github.com/KPixel) GitHub public repositories is [MIT licensed](#mit-license).

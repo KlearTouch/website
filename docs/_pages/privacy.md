@@ -4,6 +4,10 @@ title: "Privacy Statement"
 layout: splash
 ---
 
+<header>
+  <h1 id="page-title" class="page__title" itemprop="headline">Privacy Statement</h1>
+</header>
+
 Last Updated: 2021-05-31
 
 Websites published by KlearTouch do **not** have any cookies, tracking or analytics. They do ***not*** collect or store any data on our servers.

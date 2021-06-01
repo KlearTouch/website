@@ -4,6 +4,10 @@ title: "About"
 layout: splash
 ---
 
+<header>
+  <h1 id="page-title" class="page__title" itemprop="headline">About KlearTouch</h1>
+</header>
+
 Build powerful native apps...
 
 Contact:
