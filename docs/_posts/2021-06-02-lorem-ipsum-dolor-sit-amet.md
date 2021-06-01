@@ -1,19 +1,13 @@
 ---
 header:
-  og_image: "/assets/images/favicon-128x128.png"
-  teaser: "/assets/images/favicon-128x128.png"
-title: "Test 1, 2, 3! Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-date: 2021-06-01T12:00:00-00:00
-excerpt: "This page will be deleted. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porttitor vulputate iaculis. In est urna, pellentesque in eros nec, laoreet tristique sem. Ut et felis mattis, vestibulum felis vitae, egestas mi. Sed nec tincidunt massa. Nulla enim diam, vestibulum in 300c"
+  og_image: "/assets/images/under-construction.png"
+  teaser: "/assets/images/under-construction.png"
+title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer porttitor vulputate iaculis."
+date: 2021-06-02T12:00:00-00:00
+excerpt: "In est urna, pellentesque in eros nec, laoreet tristique sem. Ut et felis mattis, vestibulum felis vitae, egestas mi. Sed nec tincidunt massa. Nulla enim diam, vestibulum in 300c"
 tags:
   - Test
 ---
-
-Please, ignore. Just testing some features.
-
-![image](/assets/images/under-construction.png)
-
-This page will be gone as soon as possible.
 
 # H1 - Lorem ipsum
 

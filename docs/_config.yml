@@ -31,9 +31,9 @@ search: true
 markdown: kramdown
 remote_theme: KlearTouch/theme
 # Outputting
-permalink: /:categories/:title/
+permalink: /pierrehenri/:title/
 paginate: 2 # amount of posts to show
-paginate_path: /:categories/page:num/
+paginate_path: /pierrehenri/page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 entries_layout: "kustom"
 
