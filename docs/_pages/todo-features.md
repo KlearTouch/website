@@ -67,11 +67,11 @@ feature_row4:
 
 
 
-Please, ignore. Just testing some features.
+# Please, ignore. Just testing some features.
 
 ![image](/assets/images/favicon-128x128.png)
 
-This page will be gone as soon as possible.
+
 
 # H1 - Lorem ipsum
 
@@ -130,7 +130,7 @@ Table Data-7 | Table Data-8 | Table Data-9
 
 ##### Header5
 
-You may also want some images right in here like ![GitHub Logo](/assets/images/favicon-128x128.png "GitHub Alt")
+You may also want some images right in here like ![Our Logo - Alt](/assets/images/favicon-32x32.png "Our Logo - Title")
 
 You can do that but I would recommend you to use the component "image" and simply split your text.
 
