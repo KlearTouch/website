@@ -1,7 +1,7 @@
 ---
 header:
-  og_image: "/assets/images/under-construction.png"
-  teaser: "/assets/images/under-construction.png"
+  og_image: "/assets/images/favicon-128x128.png"
+  teaser: "/assets/images/favicon-128x128.png"
 title: "Hello, World!"
 date: 2021-05-31T12:00:00-00:00
 excerpt: "Under construction!"
