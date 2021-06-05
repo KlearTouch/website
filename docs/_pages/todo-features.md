@@ -134,8 +134,8 @@ An ordered list:
     1. sub-item-1
     2. sub-item-2
 2. item-2
-  1. sub-item-3
-  2. sub-item-4
+    1. sub-item-3
+    2. sub-item-4
 3. item-3
 
 Actually, the numbers don't matter: (they can even be in the wrong order, and Markdown will ignore them)
@@ -316,15 +316,7 @@ Code Blocks
 
 To create code blocks: (with Syntax Highlighting)
 
-```CSharp
-var value = await MyClass.MyMethod(123, "string");
-```
-
 ```csharp
-var value = await MyClass.MyMethod(123, "string");
-```
-
-```java
 var value = await MyClass.MyMethod(123, "string");
 ```
 
