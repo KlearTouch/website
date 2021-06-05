@@ -102,9 +102,9 @@ A bulletted=unordered list:
 - Syntax 1 (Most popular. Pick one and stick with it)
 + Syntax 2
 * Syntax 3
- - An indented list item
+  - An indented list item
 
-An unordered list: (The number of spaces for sub-items doesn't matter, but must be consistent)
+An unordered list: (The number of spaces for sub-items doesn't matter, must many: >= 2, but must be consistent)
 
 * item-1
   * sub-item-1
@@ -116,7 +116,7 @@ An unordered list: (The number of spaces for sub-items doesn't matter, but must 
   + sub-item-5
   + sub-item-6
 
-Starting Unordered List Items With Numbers
+Starting Unordered List Items With Numbers **(Not needed for Jekyll)**
 
 Don't do:
 
@@ -132,10 +132,10 @@ An ordered list:
 
 1. item-1
     1. sub-item-1
-  2. sub-item-2
+    2. sub-item-2
 2. item-2
   1. sub-item-3
-    2. sub-item-4
+  2. sub-item-4
 3. item-3
 
 Actually, the numbers don't matter: (they can even be in the wrong order, and Markdown will ignore them)
@@ -176,7 +176,7 @@ To add another element in a list while preserving the continuity of the list, in
 
 Use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. You can optionally add pipes on either end of the table.
 
-Use a generator: <https://www.tablesgenerator.com/markdown_tables>
+Simpler to use a generator: <https://www.tablesgenerator.com/markdown_tables>
 
 Table Header-1 | Table Header-2 | Table Header-3
 :--- | :---: | ---:
@@ -196,13 +196,13 @@ You can do that but I would recommend you to use the component "image" and simpl
 
 Make sure the page is in UTF-8 and copy paste from <https://emojipedia.org/>: 😂
 
-**Not supported by Jekyll** = Use Emoji Shortcodes like: :joy:. List: <https://gist.github.com/rxaviers/7360908>
+Use Emoji Shortcodes like (rendered as **image**): :joy:. List: <https://gist.github.com/rxaviers/7360908>
 
 ###### Header6
 
 Literal link: <https://kleartouch.com/> or <fake@example.com>
 
-Note: https://github.com/ is **NOT** a link but this: is [GitHub Search](https://github.com/search "GitHub Search - Title").
+Note: https://github.com/ is **NOT** a link but this is: [GitHub Search](https://github.com/search "GitHub Search - Title").
 
 Note: Encode any spaces with %20
 
@@ -232,7 +232,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 END
 
-**Abbreviation**
+**Abbreviation** (hard to access on touch screens)
 
 *[HTML]: Hyper Text Markup Language
 
@@ -316,7 +316,15 @@ Code Blocks
 
 To create code blocks: (with Syntax Highlighting)
 
-```C#
+```CSharp
+var value = await MyClass.MyMethod(123, "string");
+```
+
+```csharp
+var value = await MyClass.MyMethod(123, "string");
+```
+
+```java
 var value = await MyClass.MyMethod(123, "string");
 ```
 
@@ -333,3 +341,5 @@ Or indent every line of the block by at least four spaces or one tab.
       <head>
       </head>
     </html>
+
+END of file
