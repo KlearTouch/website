@@ -10,7 +10,7 @@ layout: splash
 
 Last Updated: 2021-05-31
 
-Websites published by KlearTouch do **not** have any cookies, tracking or analytics. They do ***not*** collect or store any data on our servers.
+Websites published by KlearTouch do **not** have any cookies, tracking or analytics. They do **not** collect or store any data on our servers.
 This website is hosted using GitHub Pages, so [their terms](https://docs.github.com/en/github/site-policy/github-privacy-statement) apply.
 
 Apps published by KlearTouch do **not** send any data to our servers.
