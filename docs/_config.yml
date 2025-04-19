@@ -65,13 +65,10 @@ social:
   type   : "Organization"
 
 author:
-  name   : "Pierre Henri Kuate"
+  name   : "Pierre Henri"
   avatar : "https://avatars.githubusercontent.com/u/26368333"
   bio    : "Build powerful apps"
   links:
-    - label: "phkuate@kleartouch.com"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:phkuate@kleartouch.com"
     - label: "@PierreHenriK"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PierreHenriK"
