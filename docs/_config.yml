@@ -65,13 +65,19 @@ social:
   type   : "Organization"
 
 author:
-  name   : "Pierre Henri Kuate M T"
+  name   : "Pierre Henri Kuate Mbobda Toukam"
   avatar : "https://avatars.githubusercontent.com/u/26368333"
   bio    : "Build powerful apps"
   links:
     - label: "phkuate@kleartouch.com"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:phkuate@kleartouch.com"
+    - label: "+27 728763455"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+27728763455"
+    - label: "PROTEA FLAT 4, 140 BOURKE STR SUNNYSIDE. Pretoria"
+      icon: "fas fa-fw fa-map-marker"
+      url: "https://kleartouch.com/pierrehenri/"
     - label: "@PierreHenriK"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/PierreHenriK"
